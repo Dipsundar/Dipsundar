@@ -1,12 +1,34 @@
 <!-- banner image starts here  -->
+
 <img src="./images/banner.png" width="100%"> <br>
-<!-- banner image ends here  -->  
 
+<!-- banner image ends here  -->
 
-<h1> 👋 Hello, I'm Dipsundar Majhi </h1>
+# 👋 Hello, I'm Dipsundar Majhi
 
+---
 
-👨‍💻  A Full Stack Web Developer  💻
+> 👨‍💻 **A Web Developer** 💻
 
-🏠 &nbsp; Bankura, West Bengal, India  
-🏠 &nbsp; Living: Kolkata, West Bengal, India
+### 🏠 &nbsp; Bankura, West Bengal, India
+
+## Skills:
+
+- Html
+- Css
+- Javascript
+- ES6
+- Bootstrap
+
+## Tools:
+
+- Visula Studio Code
+- Git
+- Chrome Dev Tools
+
+## Contact:
+
+Email id: **dipsundarmajhi@gmail.com**  
+WhatsApp: _+917602061928_
+
+---
