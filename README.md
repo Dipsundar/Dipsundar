@@ -23,7 +23,7 @@
 
 ## Tools:
 
-- Visula Studio Code
+- Visual Studio Code
 - Git
 - Chrome Dev Tools
 
