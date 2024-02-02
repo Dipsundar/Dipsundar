@@ -30,6 +30,6 @@
 ## Contact:
 
 Email id: **dipsundarmajhi@gmail.com**  
-WhatsApp: _+917602061928_
+WhatsApp: [Chat with me](https://wa.me/7602061928)
 
 ---
