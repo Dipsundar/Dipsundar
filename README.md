@@ -8,7 +8,7 @@
 
 ---
 
-> 👨‍💻 **A Web Developer** 💻
+> 👨‍💻 **Web Developer** 💻
 
 ### 🏠 &nbsp; Bankura, West Bengal, India
 
