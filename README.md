@@ -1,6 +1,6 @@
 <!-- banner image starts here  -->
 
-<img src="./images/banner.png" width="100%"> <br>
+<img src="./images/banner-06-feb-24.png" width="100%"> <br>
 
 <!-- banner image ends here  -->
 
