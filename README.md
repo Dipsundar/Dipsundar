@@ -14,7 +14,7 @@
 <!-- Contact me section starts here  -->
 <!-- [<img align="left" alt="website" title="website" width="45" hspace="5" src="./images/website.svg" />][website] -->
 
-[<img align="left" alt="linkedin" title="linkedin" width="45" hspace="5" src="./images/linkedin.svg" />][linkedin]
+[<img align="left" alt="linkedin" title="linkedin" width="45" hspace="5"  src="./images/linkedin.svg" />][linkedin]
 [<img align="left" alt="gmail" title="gmail" width="45" hspace="5" src="./images/gmail.svg" />][gmail]
 [<img align="left" alt="facebook" title="facebook" width="45" hspace="5" src="./images/facebook.svg" />][facebook]
 [<img align="left" alt="telegram" title="telegram" width="45" hspace="5" src="./images/telegram.svg" />][telegram]
@@ -44,15 +44,21 @@ I am a Web Developer & self-taught programmer with problem solving skills and al
 
 #### Key Skills:
 
-<img align="left" alt="html5" title="html" width="45" hspace="5" src="./images/html5.svg" />
-<img align="left" alt="css3" title="css" width="45" hspace="5" src="./images/css3.svg" />
-<img align="left" alt="bootstrap" title="bootstrap" width="45" hspace="5" src="./images/bootstrap.png" />
-<img align="left" alt="javascript" title="javascript" width="45" hspace="5" src="./images/js.svg" />
-<img align="left" alt="json" title="json" width="45" hspace="5" src="./images/json.png" />
-<img align="left" alt="sass" title="sass" width="45" hspace="5" src="./images/sass.svg" />
-<img align="left" alt="jquery" title="jquery" width="45" hspace="5" src="./images/jquery2.svg" />
-<img align="left" alt="github" title="github" width="45" hspace="5" src="./images/github-1.png" />
+<img align="left" alt="html5" title="html" width="45" hspace="5" style="margin-bottom: 10px" src="./images/html5.svg" />
+<img align="left" alt="css3" title="css" width="45" hspace="5" style="margin-bottom: 10px" src="./images/css3.svg" />
+<img align="left" alt="javascript" title="javascript" width="45" style="margin-bottom: 10px" hspace="5" src="./images/js.svg" />
+<img align="left" alt="react" title="react" width="45" hspace="5" style="margin-bottom: 10px" src="./images/react.svg" />
+<img align="left" alt="typescript" title="typescript" width="45" hspace="5" style="margin-bottom: 10px; border-radius: 50%" src="./images/typescript.svg" />
+<img align="left" alt="jquery" title="jquery" width="45" hspace="5" style="margin-bottom: 10px" src="./images/jquery2.svg" />
+<img align="left" alt="bootstrap" title="bootstrap" width="45" hspace="5" style="margin-bottom: 10px" src="./images/bootstrap.png" />
+<img align="left" alt="tailwindcss" title="tailwindcss" width="45" hspace="5" style="margin-bottom: 10px; border-radius: 50%" src="./images/tailwind.svg" />
+<img align="left" alt="sass" title="sass" width="45" hspace="5" style="margin-bottom: 10px" src="./images/sass.svg" />
+<img align="left" alt="json" title="json" width="45" hspace="5" style="margin-bottom: 10px" src="./images/json.png" />
+<img align="left" alt="github" title="github" width="45" hspace="5" style="margin-bottom: 10px" src="./images/github-1.png" />
 
+<br>
+<br>
+<br>
 <br>
 <br>
 <br>
